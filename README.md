@@ -1,27 +1,209 @@
-# 💫 About Me:
-👋 Hi there! I'm Shivam, a passionate web developer specializing in Laravel and React.<br><br>💻 What I Do<br>I build robust and scalable web applications using the power of Laravel on the backend and React on the frontend. My goal is to create seamless user experiences and efficient, maintainable code.<br><br>🌟 Highlights<br>Laravel Expertise: I have a deep understanding of Laravel, leveraging its features to develop RESTful APIs, authentication systems, and more.<br>React Mastery: I excel in building dynamic and responsive user interfaces with React, harnessing the power of state management and component-driven architecture.
+<div align="center">
 
+<!-- HEADER: Uses readme-typing-svg — renders as plain SVG, no blob shapes -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=48&duration=3000&pause=99999&color=818CF8&center=true&vCenter=true&width=700&height=90&lines=SHIVAM+KUMAR" alt="Shivam Kumar" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-ojha/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/shivamojha74) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=30&lines=Backend+Engineer+%E2%80%A2+System+Architect+%E2%80%A2+AI+Integrations" alt="Role" />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shivam7414&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shivam7414&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam7414&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shivam7414&theme=gitdimmed&no-frame=false&no-bg=true&margin-w=4)
+<!-- ANIMATED ROLE CYCLING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=30&lines=Distributed+systems.+Real-time+platforms.+AI+agents.;200K%2B+records+processed+in+under+2+minutes.;1K%2B+concurrent+users+at+sub-100ms+latency.;Building+what+doesn%27t+break+at+2AM." alt="Taglines" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/><br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shivam7414&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- SOCIAL BADGES — flat-square style, consistent -->
+<a href="https://shivamk.dev"><img src="https://img.shields.io/badge/%E2%86%97_shivamk.dev-1a1a2e?style=flat-square&logoColor=818CF8" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/shivam-kumar-ojha/"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=flat-square&logo=linkedin&logoColor=818CF8" /></a>&nbsp;
+<a href="https://twitter.com/shivamojha74"><img src="https://img.shields.io/badge/X_%2F_Twitter-1a1a2e?style=flat-square&logo=x&logoColor=818CF8" /></a>&nbsp;
+<a href="mailto:ojhashivam7414@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1a2e?style=flat-square&logo=gmail&logoColor=818CF8" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Shivam7414&style=flat-square&color=818CF8&label=profile+views&labelColor=1a1a2e" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shivam7414&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### `// WHO I AM`
+
+</div>
+
+```yaml
+shivam@prod:~$ cat identity.yaml
+
+role:        Full-Stack Engineer (Backend-heavy)
+location:    Jodhpur, Rajasthan, India
+experience:  2+ years building production systems
+current:     Maxaix — Leading backend architecture & system design
+
+specializations:
+  - Distributed backend architecture
+  - Real-time event-driven systems (Redis pub/sub, WebSocket)
+  - AI integration & RAG pipelines (OpenAI GPT-4, Text-to-SQL)
+  - Enterprise ERP & multi-tenant SaaS platforms
+  - Cloud infrastructure (AWS EC2/S3/RDS, Docker, Nginx)
+
+philosophy: >
+  "I don't ship features. I ship systems.
+   A feature breaks quietly.
+   A system failure pages you at 2AM —
+   so I make sure it never does."
+```
+
+---
+
+<div align="center">
+
+### `// IMPACT METRICS`
+
+| 🔢 Metric | 📊 Before | ⚡ After | 📈 Delta |
+|-----------|-----------|----------|---------|
+| API Response Time | 800ms | 250ms | **↓ 70%** |
+| Bulk Export (200K+ records) | 8 min | 2 min | **↓ 75%** |
+| Manual Analyst Workflows | 100% | 40% | **↓ 60% via AI** |
+| System Uptime | — | 99.9% | **20K+ DAU** |
+| AI Text-to-SQL Accuracy | — | ~90% | **RAG Architecture** |
+| Real-time Concurrent Users | — | 1K+ | **sub-100ms latency** |
+
+</div>
+
+---
+
+<div align="center">
+
+### `// TECH STACK`
+
+<!-- skill-icons renders as beautiful colored icons, not dull badges -->
+
+**Backend & Core**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,graphql&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,html,css&theme=dark" />
+
+**Infrastructure & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,redis,nginx,linux,git&theme=dark" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,postman,github,vscode&theme=dark" />
+
+**AI & Integrations**
+
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-1a1a2e?style=flat-square&logo=openai&logoColor=A78BFA)
+![RAG](https://img.shields.io/badge/RAG_Architecture-1a1a2e?style=flat-square&logo=databricks&logoColor=A78BFA)
+![WebSocket](https://img.shields.io/badge/WebSocket-1a1a2e?style=flat-square&logo=socket.io&logoColor=A78BFA)
+![Stripe](https://img.shields.io/badge/Stripe-1a1a2e?style=flat-square&logo=stripe&logoColor=A78BFA)
+![Google Maps](https://img.shields.io/badge/Google_Maps_SDK-1a1a2e?style=flat-square&logo=googlemaps&logoColor=A78BFA)
+
+</div>
+
+---
+
+<div align="center">
+
+### `// PROJECTS`
+
+</div>
+
+<details>
+<summary><b>&nbsp;📡 SendMePls &nbsp;—&nbsp; Real-time Multi-Service Delivery Platform</b>&nbsp;&nbsp;<code>Play Store</code></summary>
+
+<br/>
+
+> `Laravel` `Redis` `WebSocket` `OpenAI` `MySQL Spatial` `AWS`
+
+Multi-service ecosystem — Parcel, Ride, AI Shopping — with dual user roles. Built on a full event-driven architecture: **Redis pub/sub + WebSocket broadcasting** for live tracking, **Laravel Queues** for async job processing.
+
+- Intelligent job-matching: proximity-based agent selection with auto-fallback → **95% first-match success rate**
+- AI-powered price estimation via **few-shot learning** with OpenAI
+- **1,000+ concurrent users** sustained at **sub-100ms location update latency**
+
+</details>
+
+<details>
+<summary><b>&nbsp;🏢 Enterprise Vendor & Workforce ERP &nbsp;—&nbsp; Maxaix</b></summary>
+
+<br/>
+
+> `Laravel` `MySQL` `OpenAI GPT-4` `Redis` `Queue Workers`
+
+Full vendor/employee lifecycle platform: contract automation with **temporal logic**, 3-tier approval workflows, automated billing with PDF generation, granular RBAC across 5+ roles / 50+ permission combos.
+
+- Built **AI Text-to-SQL agent** using RAG architecture with schema-aware prompting → **~90% query accuracy**
+- Eliminated 60% of manual analyst workflows
+- Solved critical export bottleneck: **200K+ records in under 2 min** via chunked streaming + cursor iteration + Redis caching
+
+</details>
+
+<details>
+<summary><b>&nbsp;✈️ Indikosh Travel Platform &nbsp;—&nbsp; <a href="https://indikosh.in">indikosh.in</a></b></summary>
+
+<br/>
+
+> `Laravel` `REST APIs` `Easebuzz` `AWS` `React`
+
+End-to-end travel booking: flight / bus / hotel search engines, digital voucher marketplace, Easebuzz payment gateway with **webhook reconciliation**, mobile-facing RESTful APIs. Serves **10K+ active users**.
+
+</details>
+
+<details>
+<summary><b>&nbsp;🏠 Myrentalspot SaaS &nbsp;—&nbsp; <a href="https://myrentalspot.com">myrentalspot.com</a></b></summary>
+
+<br/>
+
+> `Laravel` `Stripe` `Google Maps` `AWS` `MySQL`
+
+Multi-tenant rental management: conflict-aware booking calendar, Stripe processing, geocoding + map visualization. **500+ monthly bookings**, reduced manual operations by 60%.
+
+</details>
+
+<details>
+<summary><b>&nbsp;⚖️ Jod Law Firm CMS &nbsp;—&nbsp; <a href="https://jodlawfirm.com">jodlawfirm.com</a></b></summary>
+
+<br/>
+
+> `Laravel` `Custom CMS` `Hostinger VPS` `SSL` `CDN`
+
+Trademark management platform with custom admin panel, secure consultation booking + email notifications, optimised VPS deployment with SSL and CDN integration.
+
+</details>
+
+---
+
+<div align="center">
+
+### `// GITHUB ACTIVITY`
+
+<!-- Summary cards: looks clean, themed properly -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivam7414&theme=2077" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivam7414&theme=2077" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivam7414&theme=2077" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shivam7414&theme=2077" width="32%" />
+
+<br/><br/>
+
+<!-- Contribution snake — see SETUP INSTRUCTIONS below -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivam7414/Shivam7414/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivam7414/Shivam7414/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Shivam7414/Shivam7414/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- FOOTER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=currently+building+%E2%80%A2+always+optimizing+%E2%80%A2+never+shipping+broken" />
+
+</div>
